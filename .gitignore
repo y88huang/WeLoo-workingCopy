@@ -1,5 +1,6 @@
 node_modules/
 secret_env_setting.sh
+startUpScript.sh
 *.swp
 .DS_Store
 lib-cov
